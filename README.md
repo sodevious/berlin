@@ -3,7 +3,7 @@
 
 Hallo!
 
-My name is Nicole and I am looking for a flat or flatshare in Berlin! I made this website to make it easier for potential landlords and flatmates to get a better understanding of who I am. Also it is apparently incredibly difficult to find a place to live as a foriegner, so I am doing what I do best: making a website.
+My name is Nicole and I am looking for a flat or flatshare in Berlin! I made this website to make it easier for potential landlords and flatmates to get a better understanding of who I am. Also it is apparently incredibly difficult to find a place to live as a foriegner in Berlin supposedly, so I am doing what I do best: making a website.
 
 
 # About Me

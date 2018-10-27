@@ -1,0 +1,53 @@
+@import 'variables';
+@import 'base';
+
+
+//
+// Layout
+//
+
+.nd-wrapper {
+  display: grid;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.nd-cover {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.nd-content {
+  padding: 1.5rem 1rem;
+}
+
+//
+// index.vue
+//
+.nd-content-item {
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  min-height: 10rem;
+  box-shadow: 5px 5px 0 $color-purple-light;
+  background-color: $color-white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  @media (min-width: $narrow-tablet) {
+    margin: 2%;
+    padding: 2.5%;
+  }
+}
+
+
+//
+// Utilities
+//
+.util-transparent {
+  opacity: 0;
+}
