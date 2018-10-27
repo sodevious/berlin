@@ -23,11 +23,13 @@ My name is Nicole and I am looking for a flat or flatshare in Berlin! I made thi
 * I work remotely -- so this means I work from home, cafes, libraries and coworking spaces.
 * I will be enrolled in university online starting in January. So most of my time will be spent working, studying and learning German.
 
+
 ## Hobbies and Goals
 * I am excited to live abroad and explore Germany.
 * I would like to get into more creative hobbies, like sewing and knitting.
 * I would like to start becoming fluent in German.
 * I am excited to discover the Berlin Technology and Design scene.
+
 
 ## What I am looking for
 
@@ -37,6 +39,14 @@ My name is Nicole and I am looking for a flat or flatshare in Berlin! I made thi
 * Ideally I would prefer to live in Prenzlauer Berg. But I am open to Mitte, Schoenberg, Kreuzberg,
 * Room can be furnished or unfurnished.
 * I have a flexible and open time frame. I would be interested in anything opening in November, December or January. I will be available for viewings in November and December.
+
+
+## Me as a flatmate
+* I try to be minimalist. I have lived with only a suitcase for the majority of the last 2 years. I try to only purchase and acquire things I need.
+* I am pretty quiet, you probably won't even notice I'm home.
+* I am respectful of other's belongings and personal space.
+* I will probably cook. I am trying to eat healthier, I am trying to do weekly meal planning (preparing meals in advance).
+* I am easygoing and friendly.
 
 
 # What I can provide
